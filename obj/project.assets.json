@@ -3113,11 +3113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Platzi\\ApiRest\\ApiRest.csproj",
+      "projectUniqueName": "C:\\PlatziReact\\Api\\ApiRest.csproj",
       "projectName": "ApiRest",
-      "projectPath": "C:\\Platzi\\ApiRest\\ApiRest.csproj",
+      "projectPath": "C:\\PlatziReact\\Api\\ApiRest.csproj",
       "packagesPath": "C:\\Users\\jcperez\\.nuget\\packages\\",
-      "outputPath": "C:\\Platzi\\ApiRest\\obj\\",
+      "outputPath": "C:\\PlatziReact\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jcperez\\AppData\\Roaming\\NuGet\\NuGet.Config",

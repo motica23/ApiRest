@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UlEe+mD6jQdgUViAhimOVZUdcpqPL27Z9CUfQZ1pz9/T1ZGqwTMYRI/lz6+4TfDkEmX6L291Qbo8jLt8CQRnlg==",
+  "dgSpecHash": "G0jlkR6ijBdtEU5ubdJsIUGMyYWlSZlfcuGzZRvPalvYox4Udrf1fUZNdIvqg1UHhfPJJeX6vnWnlqbqulo5pQ==",
   "success": true,
-  "projectFilePath": "C:\\Platzi\\ApiRest\\ApiRest.csproj",
+  "projectFilePath": "C:\\PlatziReact\\Api\\ApiRest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jcperez\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\jcperez\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
